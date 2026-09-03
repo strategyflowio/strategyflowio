@@ -1,8 +1,8 @@
-# StrategyFlow
+# Finnovus Consulting
 
 **Transforming Business Operations Through Finance, AI, and Intelligent Automation.**
 
-StrategyFlow is a technology consulting company that helps organizations improve operational efficiency through financial outsourcing, intelligent software integrations, and AI-powered automation.
+Finnovus Consulting is a technology consulting company that helps organizations improve operational efficiency through financial outsourcing, intelligent software integrations, and AI-powered automation.
 
 We partner with businesses to streamline workflows, reduce manual effort, and build scalable digital solutions that accelerate growth.
 
@@ -92,7 +92,7 @@ Our approach combines financial expertise, modern software engineering, and AI t
 
 ## Open Source
 
-This GitHub profile contains selected automation workflows, integration examples, reusable components, and technical resources developed by StrategyFlow.
+This GitHub profile contains selected automation workflows, integration examples, reusable components, and technical resources developed by Finnovus Consulting.
 
 More projects will be published soon.
 
