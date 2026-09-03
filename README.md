@@ -1,4 +1,4 @@
-# Finnovus Consulting
+# strategyflowio
 
 **Transforming Business Operations Through Finance, AI, and Intelligent Automation.**
 
